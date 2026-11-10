@@ -8,7 +8,6 @@
 [![R-universe](https://zaoqu-liu.r-universe.dev/badges/scVeloR)](https://zaoqu-liu.r-universe.dev/scVeloR)
 [![R-CMD-check](https://github.com/Zaoqu-Liu/scVeloR/workflows/R-CMD-check/badge.svg)](https://github.com/Zaoqu-Liu/scVeloR/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![CRAN status](https://www.r-pkg.org/badges/version/scVeloR)](https://CRAN.R-project.org/package=scVeloR)
 <!-- badges: end -->
 
 ## Introduction
